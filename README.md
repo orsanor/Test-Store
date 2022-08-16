@@ -1,4 +1,4 @@
-# vue-vela
+# vela
 
 ## Project setup
 ```
