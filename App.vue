@@ -10,7 +10,7 @@
       <v-toolbar-title>
           <v-img  
           max-height="auto" 
-          max-width="22%" 
+          max-width="28%" 
           class="mb-16 mr-10" 
           src="@/assets/logo.png"
           >
